@@ -15,6 +15,29 @@ army green: 41521F;
 	border: 0px;
 }
 
+.second{
+	padding: 40px 30px 150px 30px;
+}
+
 .second h3,h5{
 	color: #A89F68;
+}
+
+.tres{
+	padding: 150px;
+	background-color: #A89F68;
+	color: #fff;
+}
+
+.tres img{
+	border: solid 10px #fff;
+	width: 150%;
+}
+
+.cuatro{
+	background-image: url(../img/all.jpg);
+	color: #fff;
+	height: 100vh;
+	padding-top: 100px;
+
 }
