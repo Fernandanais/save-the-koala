@@ -53,11 +53,12 @@ army green: 41521F;
 
 .cinco{
 	padding: 100px;
-	height: 60vh;
+	height: 80vh;
 }
 
 .cinco i, h3{
 	color: #A89F68;
+	padding: 30px;
 }
 
 footer{
