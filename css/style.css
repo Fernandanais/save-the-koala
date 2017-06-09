@@ -5,6 +5,7 @@ army green: 41521F;
 .bienvenida{
 	background-image: url(../img/portada.jpg);
 	color: #fff;
+	height: 100vh;
 }
 
 .bienvenida button{
@@ -12,4 +13,8 @@ army green: 41521F;
 	padding: 10px;
 	border-radius: 10px;
 	border: 0px;
+}
+
+.second h3,h5{
+	color: #A89F68;
 }
