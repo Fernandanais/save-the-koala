@@ -37,7 +37,13 @@ army green: 41521F;
 .cuatro{
 	background-image: url(../img/all.jpg);
 	color: #fff;
-	height: 100vh;
+	height: 140vh;
 	padding-top: 100px;
+}
 
+.cinco{
+	padding: 100px;
+}
+.cinco i, h3{
+	color: #A89F68;
 }
