@@ -2,3 +2,14 @@
 wood brown: A89F68;
 army green: 41521F;
 */
+.bienvenida{
+	background-image: url(../img/portada.jpg);
+	color: #fff;
+}
+
+.bienvenida button{
+	background-color: #41521F;
+	padding: 10px;
+	border-radius: 10px;
+	border: 0px;
+}
