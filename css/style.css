@@ -2,10 +2,20 @@
 wood brown: A89F68;
 army green: 41521F;
 */
+*{
+	margin-top: -10px;
+}
 .bienvenida{
 	background-image: url(../img/portada.jpg);
 	color: #fff;
 	height: 100vh;
+	padding: 150px;
+}
+
+.navbar{
+	background-color: transparent;
+	margin-top: 20px;
+	border: none;
 }
 
 .bienvenida button{
@@ -43,7 +53,21 @@ army green: 41521F;
 
 .cinco{
 	padding: 100px;
+	height: 60vh;
 }
+
 .cinco i, h3{
+	color: #A89F68;
+}
+
+footer{
+	padding: 150px;
+	background-color: #41521F;
+	color: #fff;
+}
+
+footer li{
+	list-style: none;
+	padding: 5px;
 	color: #A89F68;
 }
